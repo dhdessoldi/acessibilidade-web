@@ -26,8 +26,8 @@ Para rodar a aplicação basta fazer download do repositório e acessar o index.
 
 ### ScreenShots
 
-![image](https://github.com/dhdessoldi/acessibilidade-web/assets/110476564/2f73f7d7-9620-4e0f-99e4-66148bc52b0b)
+![Captura de tela do campo email sugerindo correção de gnail para gmail](https://github.com/dhdessoldi/acessibilidade-web/assets/110476564/2f73f7d7-9620-4e0f-99e4-66148bc52b0b)
 
-![image](https://github.com/dhdessoldi/acessibilidade-web/assets/110476564/064b8bff-e204-401f-a49f-efc363539099)
+![Captura de tela da modal de inscrição de newsletter aberta com foco no campo de preenchimento de email](https://github.com/dhdessoldi/acessibilidade-web/assets/110476564/064b8bff-e204-401f-a49f-efc363539099)
 
 
